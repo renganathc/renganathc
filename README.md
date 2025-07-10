@@ -1,4 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Renganath Chokkalingam</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hey+I'm+Renganath+Chokkalingam+👋;Full-Stack+Dev+%7C+AI+Builder;Python+%7C+MERN+%7C+TensorFlow+%7C+Firebase;Let’s+build+something+awesome+🚀" alt="Typing SVG" />
+</p>
+
 <p align="center">
   Sophomore @ NIT Andhra Pradesh | Full-Stack Developer | AI/ML Enthusiast
 </p>
