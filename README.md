@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hey+I'm+Renganath+Chokkalingam+👋;Full-Stack+Dev+%7C+AI+Builder;Software+Developer;Let’s+build+something+awesome+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=400&lines=Hey+I'm+Renganath+Chokkalingam+👋;Full-Stack+Dev+%7C+AI+Builder;Software+Developer;Let’s+build+something+awesome+🚀)](https://git.io/typing-svg)
 
 
 <p align="center">
