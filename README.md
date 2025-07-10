@@ -17,6 +17,20 @@
 
 ---
 
+### 🧰 Tech Stack
+
+![Skills](https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,cpp,c,androidstudio,kotlin,firebase,tensorflow,git,aws,azure)
+
+---
+
+### 📚 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/renganathc?theme=dark" width="500" />
+</p>
+
+---
+
 ### 🧠 Current Interests
 
 - Large Language Models (LLMs), Deep Learning
@@ -26,44 +40,12 @@
 
 ---
 
-### 📌 Highlight Projects
-
-#### 🚗 [Deal on Wheels](https://dealsonwheels.vercel.app/)
-A full-stack used car marketplace with dynamic search and seller-side management.  
-> Stack: React, Node.js, Express, MongoDB
-
-#### ✋ [Handgesture Game Control](https://github.com/renganathc/handgesture-keymap-opencv)
-Control Chrome Dino game with gestures using OpenCV + MediaPipe + PyAutoGUI.
-
-#### 🥘 Food Vault – Digital Meal Token System
-Deployed Android & Web app for 400+ students; features QR check-ins, SHA-256 validation, Firebase backend.
-
-#### 📱 [ZApp Messenger](https://github.com/renganathc/zapp-messenger)
-Real-time chat app with Firebase Authentication, DB, and Storage.
-
-#### 🏷️ [Gold Meter](https://play.google.com/store/apps/details?id=com.market.goldmeter)
-Android app scraping real-time gold prices using Jsoup and Material Design components.
-
-#### 🧩 [Simplyfi](https://devpost.com/software/simplyfi-de2bkg)
-Task management & team collaboration tool built for B2B factory ops.
-
-#### 👟 [Urbn Kicks](https://github.com/renganathc/urbn-kicks)
-A Firebase-powered Android shoe store with Material UI and category filters.
-
----
-
 ### 💼 Experience
 
-- **Lead Developer**, *Food Vault (NIT Andhra Pradesh)* – [03/2025 – 05/2025]  
 - **Executive Member**, *AI & Robotics Club, NIT-AP* – [09/2024 – Present]  
+- **Lead Developer**, *Food Vault (NIT Andhra Pradesh)* – [03/2025 – 05/2025]
 - **Technical Team Member**, *Google Developer Student Clubs* – [10/2024 – Present]  
 - **Android Development Tutor**, *Superprof* – [07/2021 – 10/2021]  
-
----
-
-### 🧰 Tech Stack
-
-![Skills](https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,cpp,c,androidstudio,kotlin,firebase,tensorflow,git,aws,azure)
 
 ---
 
@@ -73,8 +55,7 @@ A Firebase-powered Android shoe store with Material UI and category filters.
 - 🌐 [Portfolio](https://renganath.vercel.app)  
 - 💼 [LinkedIn](https://linkedin.com/in/renganathc)  
 - 📧 [Email](mailto:rengnath1234@gmail.com)  
-- 🧑‍💻 [GitHub](https://github.com/renganathc)  
-- 📱 +91 8680859280  
+- 🧑‍💻 [GitHub](https://github.com/renganathc)
 
 ---
 
