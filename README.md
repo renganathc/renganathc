@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=44&duration=3000&pause=3000&center=true&vCenter=true&width=1000&lines=Hey+I'm+Renganath+C+👋;Full-Stack+Dev+%7C+AI+Builder;Software+Developer;Let’s+build+something+awesome+🚀)](https://git.io/typing-svg)
 
+‎ 
+
 <p align="center">
   <a href="https://renganath.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
