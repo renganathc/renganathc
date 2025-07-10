@@ -45,7 +45,7 @@ Recently, I’ve been diving into machine learning and automation — exploring 
 ### 🧠 Current Interests
 
 <p align="center">
-  LLMs · Deep Learning · AI Automation · AWS · Hackathons · Scalable Systems
+  LLMs · Deep Learning · AI Automation · Scalable Systems · Hackathons
 </p>
 
 
