@@ -5,13 +5,13 @@
 ### 🚀 About Me
 
 I'm a sophomore with around four years of experience in full-stack and mobile app development.  
-I’ve built production-ready web apps using the MERN stack, developed Android applications with Kotlin, and even tutored students in Android development early on.  
+I’ve built production-ready web apps using the MERN stack, developed Android apps with Kotlin, and even tutored students in Android development early on.  
 Recently, I’ve been diving into machine learning and automation — exploring neural networks and building with TensorFlow to bring more intelligence into the systems I create.
 
 - 💻 Proficient in **Python**, **JavaScript**, **C/C++**, and **Kotlin**  
 - 🛠️ Experienced with **MERN stack**, **Firebase**, and **Android Studio**  
 - 🤖 Building ML workflows and automation using **TensorFlow**  
-- ☁️ Skilled in **cloud deployment**, **Git**, and developing **real-time systems**  
+- ☁️ Skilled in **cloud deployment**, **Git**, and real-time systems  
 - 🧑‍🏫 Former **Android SDK tutor**, passionate about simplifying tech for others
 
 ---
@@ -32,19 +32,19 @@ Recently, I’ve been diving into machine learning and automation — exploring 
 
 ### 🧠 Current Interests
 
-- Large Language Models (LLMs), Deep Learning
-- Cloud Platforms: AWS, Azure
-- Real-world AI Integrations + Automation
-- Hackathons, Clean UI Design & Scalable Backends
+- Large Language Models (LLMs) and Deep Learning  
+- Cloud Platforms: **AWS**, **Azure**  
+- AI Integrations, Automation, and Scalability  
+- Hackathons, Clean UI Design & Backend Architecture
 
 ---
 
 ### 💼 Experience
 
-- **Executive Member**, *AI & Robotics Club, NIT-AP* – [09/2024 – Present]  
-- **Lead Developer**, *Food Vault (NIT Andhra Pradesh)* – [03/2025 – 05/2025]
-- **Technical Team Member**, *Google Developer Student Clubs* – [10/2024 – Present]  
-- **Android Development Tutor**, *Superprof* – [07/2021 – 10/2021]  
+- **Executive Member**, *AI & Robotics Club, NIT-AP* – *Sep 2024 – Present*  
+- **Lead Developer**, *Food Vault @ NIT Andhra Pradesh* – *Mar 2025 – May 2025*  
+- **Technical Team Member**, *Google Developer Student Clubs* – *Oct 2024 – Present*  
+- **Android Development Tutor**, *Superprof* – *Jul 2021 – Oct 2021*
 
 ---
 
@@ -69,6 +69,4 @@ Recently, I’ve been diving into machine learning and automation — exploring 
 
 ### ⚡ Fun Fact
 
-> I'm a proud Potterhead 🪄, an EV nerd ⚡, and the guy in hackathons who yells “Deploy it already!” before the deadline hits.
-
----
+> Proud Potterhead 🪄, EV nerd ⚡, and the guy at hackathons yelling *“Deploy it already!”* before the clock runs out.
