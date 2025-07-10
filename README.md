@@ -32,10 +32,10 @@ Recently, I’ve been diving into machine learning and automation — exploring 
 
 ### 🧠 Current Interests
 
-- Large Language Models (LLMs) and Deep Learning  
-- Cloud Platforms: **AWS**, **Azure**  
-- AI Integrations, Automation, and Scalability  
-- Hackathons, Clean UI Design & Backend Architecture
+<p align="center">
+  LLMs · Deep Learning · AI Automation · AWS · Hackathons · Scalable Systems
+</p>
+
 
 ---
 
