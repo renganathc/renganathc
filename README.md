@@ -4,13 +4,15 @@
 
 ### 🚀 About Me
 
-🎓 I'm a sophomore in Electrical and Electronics Engineering at **National Institute of Technology, Andhra Pradesh** (Batch of '28), deeply interested in **AI, machine learning**, and **full-stack development**.
+I'm a sophomore with around four years of experience in full-stack and mobile app development.  
+I’ve built production-ready web apps using the MERN stack, developed Android applications with Kotlin, and even tutored students in Android development early on.  
+Recently, I’ve been diving into machine learning and automation — exploring neural networks and building with TensorFlow to bring more intelligence into the systems I create.
 
-- 💻 Proficient in **Python**, **JavaScript**, **C/C++**, **Kotlin**
-- 🛠️ Built production-ready applications using **MERN Stack**, **Firebase**, and **Android Studio**
-- 🤖 Developed ML models with **TensorFlow** and implemented **AI-powered automation**
-- 🌐 Experienced in **cloud deployment**, **Git version control**, and **real-time systems**
-- 📚 I enjoy mentoring (former **Android SDK tutor**) and building solutions that scale and simplify life
+- 💻 Proficient in **Python**, **JavaScript**, **C/C++**, and **Kotlin**  
+- 🛠️ Experienced with **MERN stack**, **Firebase**, and **Android Studio**  
+- 🤖 Building ML workflows and automation using **TensorFlow**  
+- ☁️ Skilled in **cloud deployment**, **Git**, and developing **real-time systems**  
+- 🧑‍🏫 Former **Android SDK tutor**, passionate about simplifying tech for others
 
 ---
 
