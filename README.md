@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 
-🎓 I'm a sophomore in Electrical and Electronics Engineering at **NIT Andhra Pradesh** (Batch of '28), deeply interested in **AI, machine learning**, and **full-stack development**.
+🎓 I'm a sophomore in Electrical and Electronics Engineering at **National Institute of Technology, Andhra Pradesh** (Batch of '28), deeply interested in **AI, machine learning**, and **full-stack development**.
 
 - 💻 Proficient in **Python**, **JavaScript**, **C/C++**, **Kotlin**
 - 🛠️ Built production-ready applications using **MERN Stack**, **Firebase**, and **Android Studio**
