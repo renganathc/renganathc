@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-I'm a sophomore with around four years of experience in full-stack and mobile app development. I’ve built production-ready web apps using the MERN stack, developed Android apps with Kotlin, and even tutored students in Android development early on. Recently, I’ve been diving into machine learning and automation — exploring neural networks and building with TensorFlow to bring more intelligence into the systems I create.
+I'm a sophomore with around five years of experience in full-stack and mobile app development. I’ve built production-ready web apps using the MERN stack, developed Android apps with Kotlin, and even tutored students in Android development early on. Recently, I’ve been diving into machine learning and automation — exploring neural networks and building with TensorFlow to bring more intelligence into the systems I create.
 
 - 💻 Proficient in **Python**, **JavaScript**, **C/C++**, and **Kotlin**  
 - 🛠️ Experienced with **MERN stack**, **Firebase**, and **Android Studio**  
