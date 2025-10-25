@@ -79,4 +79,4 @@ I'm a sophomore with around five years of experience in full-stack and mobile ap
 
 ### ⚡ Fun Fact
 
-> Proud Potterhead 🪄, EV nerd ⚡, and the guy at hackathons yelling *“Deploy it already!”* before the clock runs out.
+> Proud Potterhead 🪄, EV nerd ⚡, and the guy at hackathons yelling *“Deploy it already!”* before the clock runs out. 
