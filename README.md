@@ -35,7 +35,7 @@ I'm a sophomore with around five years of experience in full-stack and mobile ap
 ### 📚 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/renganathc?theme=dark" width="500" />
+  leetcode_stat_disp
 </p>
 
 ---
